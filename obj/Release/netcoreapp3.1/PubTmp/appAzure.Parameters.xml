@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="appAzurePhAds2020" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/philipporodrigues/Documents/Dev/Workspace_CS/appAzure/obj/Release/netcoreapp3\.1/PubTmp/Out/$" />
+  </parameter>
+</parameters>
